@@ -1,1 +1,1 @@
-print("¡Hola! Este es el inicio del bot de inversión.")
+print("¡Hola desde Binder!")
