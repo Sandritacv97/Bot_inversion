@@ -1,5 +1,1 @@
 pandas
-numpy
-matplotlib
-ib_insync
-sqlite3
